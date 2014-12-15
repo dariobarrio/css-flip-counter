@@ -1,0 +1,20 @@
+{
+  "name": "css-flip-counter",
+  "version": "1.0.0",
+  "title": "css-flip-counter",
+  "description": "A flip-counter based on the ",
+  "homepage": "https://github.com/dbarrio/css-flip-counter",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "47016f70a47f05c31a4f2b3ee07ba8fce30953c6"
+  },
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "_source": "git://github.com/dbarrio/css-flip-counter.git",
+  "_target": "*",
+  "_originalSource": "css-flip-counter",
+  "_direct": true
+}
